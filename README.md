@@ -37,3 +37,18 @@ Wrong Guess!
 
 Remaining Attempts: 5
 Congratulations! You guessed the word.
+
+🌟 PROJECT HIGHLIGHTS
+⭐ Beginner-friendly Python project
+⭐ Demonstrates loops and conditional logic
+⭐ Uses the Random module for word selection
+⭐ Interactive command-line gameplay
+⭐ Improves problem-solving and logical thinking
+📂 FILES INCLUDED
+
+hangman_game.py – Main Python program
+README.md – Project documentation
+
+🚀 PROJECT STATUS
+
+🟢 Completed Successfully
