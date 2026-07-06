@@ -51,7 +51,7 @@ Congratulations! You guessed the word.
 Add your demo video link here: https://drive.google.com/file/d/11hQJXyX_9uB5MmFrrdKLfhsz_X3IbtYx/view?usp=drivesdk
 🔗 GITHUB REPOSITORY
 
-https://github.com/maddala-teja/CodeAlpha_FAQ_Chatbot
+https://github.com/maddala-teja/CodeAlpha-Hungama-Game.git
 
 hangman_game.py – Main Python program
 README.md – Project documentation
